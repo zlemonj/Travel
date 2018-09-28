@@ -10,6 +10,7 @@
           </div>
       </swiper-slide>
     </swiper>
+
   </div>
 </template>
 <script>
@@ -17,6 +18,7 @@ export default {
     name:'HomeIcons',
     data(){
       return{
+
         iconList:[
           {
             id:'0001',

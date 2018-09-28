@@ -3,9 +3,9 @@
   <home-header></home-header>
   <home-swiper></home-swiper>
   <home-icons></home-icons>
-
   <home-weekend></home-weekend>
   <home-recommend></home-recommend>
+
 </div>
 </template>
 <script>
@@ -22,7 +22,6 @@ export default{
     HomeIcons,
     HomeRecommend,
     HomeWeekend,
-
   }
 }
 </script>
