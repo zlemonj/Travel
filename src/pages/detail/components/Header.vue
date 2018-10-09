@@ -49,6 +49,7 @@ export default {
 <style lang="stylus" scoped>
   @import '~styles/varibles.styl'
   .header-abs
+    z-index: 2
     position: absolute
     left: .2rem
     top: .2rem
@@ -66,8 +67,8 @@ export default {
     top: 0
     left: 0
     right: 0
-    height: $headerHeight
-    line-height:$headerHeight
+    height:  $headerHeight
+    line-height: $headerHeight
     text-align: center
     color: #fff
     background: $bgcolor
